@@ -1,0 +1,5 @@
+import { createRoot } from "react-dom/client";
+import "./index.css";
+import Home from "./Pages/Home/Home";
+
+createRoot(document.getElementById("root")!).render(<Home />);
