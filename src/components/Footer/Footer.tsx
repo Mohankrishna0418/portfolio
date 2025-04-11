@@ -30,7 +30,7 @@ const Footer = () => {
           {/* Left: Copyright */}
           <div className="text-sm text-gray-400 md:items-center">
             Copyright © {new Date().getFullYear()} — All rights reserved by 
-            <span> Jagadish C K</span>
+            <span> Mohan Krishna A</span>
           </div>
 
           {/* Center: Navigation */}
