@@ -1,5 +1,5 @@
 import Container from "../../components/Container";
-import Footer from "../../components/Footer";
+import Footer from "../../components/Footer/Footer";
 
 import Experience from "../Experience/Exper";
 import About from "../About/About";
