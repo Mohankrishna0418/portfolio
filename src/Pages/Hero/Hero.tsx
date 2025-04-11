@@ -31,7 +31,7 @@ const Hero = () => {
       <img
         src="/profile.jpg"
         alt="Mohan Krishna A"
-        className="rounded-full w-45 h-35 object-cover border p-1"
+        className="rounded-full w-38 h-38 object-cover border p-1"
       />
 
       <div className="flex flex-col items-center md:items-start w-full gap-5 p-2">
