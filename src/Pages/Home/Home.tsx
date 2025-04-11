@@ -4,7 +4,9 @@ import Footer from "../../components/Footer";
 import Experience from "../Experience/Exper";
 import About from "../About/About";
 
-
+import Connect from "../Connect/Connect";
+import Education from "../Education/Education";
+import Projects from "../Projects/Projects";
 import Hero from "../Hero/Hero";
 
 
@@ -16,7 +18,9 @@ const Home = () => {
           <Hero />
           <About />
           <Experience />
-          
+          <Projects />
+          <Education />
+          <Connect />
         </div>
       </Container>
       <Footer />
